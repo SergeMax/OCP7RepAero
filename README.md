@@ -10,6 +10,7 @@ Bonjour à toute l’équipe ! Afin de rassembler nos artefacts architecturaux
 
   - Architecture Baseline
   - Architecture Target
+  - Audit Technique
 
 #### **Documentation en attente de finalisation et de signature :**
 
